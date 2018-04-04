@@ -68,3 +68,13 @@ header.startup h1 {
   cursor: pointer;
 }
 
+/* MailChimp style */
+
+#mc_embed_signup { 
+  clear:left;
+  font:14px Helvetica,Arial,sans-serif; 
+}
+.mailstyle {
+  position: absolute;
+  left: -5000px;
+}
