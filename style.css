@@ -78,3 +78,9 @@ header.startup h1 {
   position: absolute;
   left: -5000px;
 }
+
+#mc_embed_signup form {
+  display: block;
+  position: relative;
+  text-align: center;
+}
