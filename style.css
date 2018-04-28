@@ -82,5 +82,5 @@ header.startup h1 {
 #mc_embed_signup form {
   display: block;
   position: relative;
-  text-align: center;
+  text-align: center !important;
 }
